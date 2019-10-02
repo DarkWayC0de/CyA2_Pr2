@@ -87,7 +87,10 @@ identificando el resto de palabras.
 
 Si empieza  por numero y despues caracter DESCONOCIDA
 Si contiene algun simbolo es DESCONOCIDA
-
+ 
+###Modificacion 
+Verificar la apertura y cierre corchetes, parentesis y llaves de forma correcta, en caso contrario informar de ello.
+Si se detecta mas signos de cierre se cierra inmediatamente la apertura y se mostrara un error, en caso de mas signos de apertura se notificara al finalizar el documento de lectura, con un error
 
 
 
