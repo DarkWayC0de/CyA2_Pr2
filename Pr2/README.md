@@ -1,6 +1,6 @@
-#Practica 2 Computabilidad y Algorimia
+# Practica 2 Computabilidad y Algorimia
 
-###Objetivos
+### Objetivos
 Identifique clases y objetos que permitan moderlar adecuadamente el escenario
 de trabajo que se plantea.
 
@@ -15,7 +15,7 @@ realiza.
 
 
 
-###Evaluación
+### Evaluación
 El programa ha de seguir el paradigma de orientacion a objetos
 
 El código a de ser modular
@@ -29,7 +29,7 @@ Capacidad del programador de introducir cambios.
 
 
 
-###Introducción
+### Introducción
 Un programa que lea un fichero de texto clasificando diferentes elementos que 
 indentifica en el texeto de acuerdo a un conjunto de categorías es lo que llama
 habitualmente un analizador léxico.
